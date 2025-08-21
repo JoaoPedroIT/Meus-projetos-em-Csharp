@@ -1,0 +1,8 @@
+C:\Users\JoaoP\Projetos\ProssesFiles\ProssesFiles\bin\Debug\ProssesFiles.exe.config
+C:\Users\JoaoP\Projetos\ProssesFiles\ProssesFiles\bin\Debug\ProssesFiles.exe
+C:\Users\JoaoP\Projetos\ProssesFiles\ProssesFiles\bin\Debug\ProssesFiles.pdb
+C:\Users\JoaoP\Projetos\ProssesFiles\ProssesFiles\obj\Debug\ProssesFiles.csproj.AssemblyReference.cache
+C:\Users\JoaoP\Projetos\ProssesFiles\ProssesFiles\obj\Debug\ProssesFiles.csproj.CoreCompileInputs.cache
+C:\Users\JoaoP\Projetos\ProssesFiles\ProssesFiles\obj\Debug\ProssesFiles.exe
+C:\Users\JoaoP\Projetos\ProssesFiles\ProssesFiles\obj\Debug\ProssesFiles.pdb
+C:\Users\JoaoP\Projetos\ProssesFiles\ProssesFiles\obj\Debug\ProssesFiles.exe.config
