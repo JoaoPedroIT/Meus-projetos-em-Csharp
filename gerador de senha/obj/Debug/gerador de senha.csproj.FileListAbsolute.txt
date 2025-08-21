@@ -1,0 +1,7 @@
+C:\Users\JoaoP\source\repos\gerador de senha\gerador de senha\bin\Debug\gerador de senha.exe.config
+C:\Users\JoaoP\source\repos\gerador de senha\gerador de senha\bin\Debug\gerador de senha.exe
+C:\Users\JoaoP\source\repos\gerador de senha\gerador de senha\bin\Debug\gerador de senha.pdb
+C:\Users\JoaoP\source\repos\gerador de senha\gerador de senha\obj\Debug\gerador de senha.csproj.AssemblyReference.cache
+C:\Users\JoaoP\source\repos\gerador de senha\gerador de senha\obj\Debug\gerador de senha.csproj.CoreCompileInputs.cache
+C:\Users\JoaoP\source\repos\gerador de senha\gerador de senha\obj\Debug\gerador de senha.exe
+C:\Users\JoaoP\source\repos\gerador de senha\gerador de senha\obj\Debug\gerador de senha.pdb
